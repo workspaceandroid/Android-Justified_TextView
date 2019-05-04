@@ -1,8 +1,8 @@
 JustifiedTextView
 =========
-[![Maven Central](https://img.shields.io/maven-central/v/com.codesgood/justifiedtextview.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.codesgood%22%20AND%20a:%22justifiedtextview%22) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-JustifiedTextView-green.svg?style=flat)](https://android-arsenal.com/details/1/7273)
 
-JustifiedTextView is an Android View that justifies the Text! 🙌🏻 
+
+JustifiedTextView is an Android View that justifies the Text!
 
 Android introduced in **API level 26** the method [setJustificationMode(int)](https://developer.android.com/reference/android/widget/TextView.html#setJustificationMode(int)), which is meant to justify the text inside a TextView.
 
